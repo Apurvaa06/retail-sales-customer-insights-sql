@@ -1,0 +1,26 @@
+﻿customer_id,full_name,email,city,state,signup_date
+C001,Aarav Sharma,aarav.sharma@example.com,Mumbai,Maharashtra,2023-01-12
+C002,Diya Patel,diya.patel@example.com,Ahmedabad,Gujarat,2023-01-25
+C003,Ishaan Gupta,ishaan.gupta@example.com,Delhi,Delhi,2023-02-04
+C004,Ananya Iyer,ananya.iyer@example.com,Bengaluru,Karnataka,2023-02-19
+C005,Kabir Mehta,kabir.mehta@example.com,Pune,Maharashtra,2023-03-02
+C006,Meera Nair,meera.nair@example.com,Kochi,Kerala,2023-03-18
+C007,Arjun Reddy,arjun.reddy@example.com,Hyderabad,Telangana,2023-04-03
+C008,Sara Khan,sara.khan@example.com,Jaipur,Rajasthan,2023-04-21
+C009,Rohan Das,rohan.das@example.com,Kolkata,West Bengal,2023-05-08
+C010,Aditi Joshi,aditi.joshi@example.com,Mumbai,Maharashtra,2023-05-27
+C011,Vivaan Rao,vivaan.rao@example.com,Chennai,Tamil Nadu,2023-06-11
+C012,Kiara Singh,kiara.singh@example.com,Delhi,Delhi,2023-06-29
+C013,Neil Thomas,neil.thomas@example.com,Bengaluru,Karnataka,2023-07-14
+C014,Myra Kapoor,myra.kapoor@example.com,Lucknow,Uttar Pradesh,2023-07-30
+C015,Advik Shah,advik.shah@example.com,Surat,Gujarat,2023-08-16
+C016,Ira Menon,ira.menon@example.com,Kochi,Kerala,2023-09-01
+C017,Reyansh Verma,reyansh.verma@example.com,Jaipur,Rajasthan,2023-09-20
+C018,Tara Bose,tara.bose@example.com,Kolkata,West Bengal,2023-10-05
+C019,Atharv Kulkarni,atharv.k@example.com,Pune,Maharashtra,2023-10-22
+C020,Zoya Ali,zoya.ali@example.com,Hyderabad,Telangana,2023-11-09
+C021,Krish Bhat,krish.bhat@example.com,Bengaluru,Karnataka,2023-11-26
+C022,Saanvi Jain,saanvi.jain@example.com,Ahmedabad,Gujarat,2023-12-13
+C023,Dev Malhotra,dev.malhotra@example.com,Chennai,Tamil Nadu,2024-01-06
+C024,Nisha Roy,nisha.roy@example.com,Delhi,Delhi,2024-01-24
+C025,Om Prakash,om.prakash@example.com,Mumbai,Maharashtra,2024-02-12

@@ -1,0 +1,16 @@
+﻿product_id,product_name,category,unit_price,stock_quantity
+P001,Everyday Crew T-Shirt,Apparel,799.0,45
+P002,Classic Denim Jeans,Apparel,2199.0,18
+P003,Canvas Sneakers,Footwear,2499.0,12
+P004,Leather Wallet,Accessories,999.0,8
+P005,Insulated Water Bottle,Home & Living,599.0,60
+P006,Wireless Earbuds,Electronics,3499.0,14
+P007,Cotton Hoodie,Apparel,1899.0,22
+P008,Running Shoes,Footwear,3299.0,9
+P009,Everyday Backpack,Accessories,1599.0,16
+P010,Ceramic Coffee Mug,Home & Living,399.0,75
+P011,Bluetooth Speaker,Electronics,2799.0,7
+P012,Linen Shirt,Apparel,1699.0,20
+P013,Sports Cap,Accessories,499.0,5
+P014,Yoga Mat,Sports & Fitness,1199.0,11
+P015,Resistance Band Set,Sports & Fitness,699.0,32
